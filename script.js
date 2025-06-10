@@ -15,7 +15,7 @@ function populateSelects() {
   fillSelect('characterSelect', character);
   fillSelect('categorySelect', category);;
 
-  document.getElementById("showButton").addEventListener("click", updateImages);
+  document.getElementById("searchButton").addEventListener("click", updateImages);
 }
 
 function fillSelect(id, items) {
