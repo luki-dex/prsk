@@ -1,292 +1,350 @@
 [
   {
     "src": "images/epick/01_ichika.png",
-    "character": "ichika",
-    "category": "epick"
+    "thumbnail": "images/thumbnail/epick/01_ichika.png",
+    "character": "星乃一歌",
+    "category": "ePick"
   },
   {
     "src": "images/epick/02_saki.png",
-    "character": "saki",
-    "category": "epick"
+    "thumbnail": "images/thumbnail/02_saki.png",
+    "character": "天馬咲希",
+    "category": "ePick"
   },
   {
     "src": "images/epick/03_honami.png",
-    "character": "honami",
-    "category": "epick"
+    "thumbnail": "images/thumbnail/03_honami.png",
+    "character": "望月穗波",
+    "category": "ePick"
   },
   {
     "src": "images/epick/04_shiho.png",
-    "character": "shiho",
-    "category": "epick"
+    "thumbnail": "images/thumbnail/04_shiho.png",
+    "character": "日野森志步",
+    "category": "ePick"
   },
   {
     "src": "images/epick/05_minori.png",
-    "character": "minori",
-    "category": "epick"
+    "thumbnail": "images/thumbnail/05_minori.png",
+    "character": "花里實乃理",
+    "category": "ePick"
   },
   {
     "src": "images/epick/06_haruka.png",
-    "character": "haruka",
-    "category": "epick"
+    "thumbnail": "images/thumbnail/06_haruka.png",
+    "character": "桐谷遙",
+    "category": "ePick"
   },
   {
     "src": "images/epick/07_airi.png",
-    "character": "airi",
-    "category": "epick"
+    "thumbnail": "images/thumbnail/07_airi.png",
+    "character": "桃井愛莉",
+    "category": "ePick"
   },
   {
     "src": "images/epick/08_shizuku.png",
-    "character": "shizuku",
-    "category": "epick"
+    "thumbnail": "images/thumbnail/08_shizuku.png",
+    "character": "日野森雫",
+    "category": "ePick"
   },
   {
     "src": "images/epick/09_kohane.png",
-    "character": "kohane",
-    "category": "epick"
+    "thumbnail": "images/thumbnail/09_kohane.png",
+    "character": "小豆澤心羽",
+    "category": "ePick"
   },
   {
     "src": "images/epick/10_an.png",
-    "character": "an",
-    "category": "epick"
+    "thumbnail": "images/thumbnail/10_an.png",
+    "character": "白石杏",
+    "category": "ePick"
   },
   {
     "src": "images/epick/11_akito.png",
-    "character": "akito",
-    "category": "epick"
+    "thumbnail": "images/thumbnail/11_akito.png",
+    "character": "東雲彰人",
+    "category": "ePick"
   },
   {
     "src": "images/epick/12_toya.png",
-    "character": "toya",
-    "category": "epick"
+    "thumbnail": "images/thumbnail/12_toya.png",
+    "character": "青柳冬彌",
+    "category": "ePick"
   },
   {
     "src": "images/epick/13_tsukasa.png",
-    "character": "tsukasa",
-    "category": "epick"
+    "thumbnail": "images/thumbnail/13_tsukasa.png",
+    "character": "天馬司",
+    "category": "ePick"
   },
   {
     "src": "images/epick/14_emu.png",
-    "character": "emu",
-    "category": "epick"
+    "thumbnail": "images/thumbnail/14_emu.png",
+    "character": "鳳笑夢",
+    "category": "ePick"
   },
   {
     "src": "images/epick/15_nene.png",
-    "character": "nene",
-    "category": "epick"
+    "thumbnail": "images/thumbnail/15_nene.png",
+    "character": "草薙寧寧",
+    "category": "ePick"
   },
   {
     "src": "images/epick/16_rui.png",
-    "character": "rui",
-    "category": "epick"
+    "thumbnail": "images/thumbnail/16_rui.png",
+    "character": "神代類",
+    "category": "ePick"
   },
   {
     "src": "images/epick/17_kanade.png",
-    "character": "kanade",
-    "category": "epick"
+    "thumbnail": "images/thumbnail/17_kanade.png",
+    "character": "宵崎奏",
+    "category": "ePick"
   },
   {
     "src": "images/epick/18_mafuyu.png",
-    "character": "mafuyu",
-    "category": "epick"
+    "thumbnail": "images/thumbnail/18_mafuyu.png",
+    "character": "朝比奈真冬",
+    "category": "ePick"
   },
   {
     "src": "images/epick/19_ena.png",
-    "character": "ena",
-    "category": "epick"
+    "thumbnail": "images/thumbnail/19_ena.png",
+    "character": "東雲繪名",
+    "category": "ePick"
   },
   {
     "src": "images/epick/20_mizuki.png",
-    "character": "mizuki",
-    "category": "epick"
+    "thumbnail": "images/thumbnail/20_mizuki.png",
+    "character": "曉山瑞希",
+    "category": "ePick"
   },
   {
     "src": "images/epick/21_miku.png",
-    "character": "miku",
-    "category": "epick"
+    "thumbnail": "images/thumbnail/epick/21_miku.png",
+    "character": "初音未來",
+    "category": "ePick"
   },
   {
     "src": "images/epick/22_rin.png",
-    "character": "rin",
-    "category": "epick"
+    "thumbnail": "images/thumbnail/epick/22_rin.png",
+    "character": "鏡音鈴",
+    "category": "ePick"
   },
   {
     "src": "images/epick/23_len.png",
-    "character": "len",
-    "category": "epick"
+    "thumbnail": "images/thumbnail/epick/23_len.png",
+    "character": "鏡音連",
+    "category": "ePick"
   },
   {
     "src": "images/epick/24_luka.png",
-    "character": "luka",
-    "category": "epick"
+    "thumbnail": "images/thumbnail/epick/24_luka.png",
+    "character": "巡音流歌",
+    "category": "ePick"
   },
   {
     "src": "images/epick/25_meiko.png",
-    "character": "meiko",
-    "category": "epick"
+    "thumbnail": "images/thumbnail/epick/25_meiko.png",
+    "character": "MEIKO",
+    "category": "ePick"
   },
   {
     "src": "images/epick/26_kaito.png",
-    "character": "kaito",
-    "category": "epick"
+    "thumbnail": "images/thumbnail/epick/26_kaito.png",
+    "character": "KAITO",
+    "category": "ePick"
   },
   {
     "src": "images/shikishi/01_ichika.png",
-    "character": "ichika",
-    "category": "shikishi"
+    "thumbnail": "images/thumbnail/shikishi/01_ichika.png",
+    "character": "星乃一歌",
+    "category": "色紙"
   },
   {
     "src": "images/shikishi/02_saki.png",
-    "character": "saki",
-    "category": "shikishi"
+    "thumbnail": "images/thumbnail/shikishi/02_saki.png",
+    "character": "天馬咲希",
+    "category": "色紙"
   },
   {
     "src": "images/shikishi/03_honami.png",
-    "character": "honami",
-    "category": "shikishi"
+    "thumbnail": "images/thumbnail/shikishi/03_honami.png",
+    "character": "望月穗波",
+    "category": "色紙"
   },
   {
     "src": "images/shikishi/04_shiho.png",
-    "character": "shiho",
-    "category": "shikishi"
+    "thumbnail": "images/thumbnail/shikishi/04_shiho.png",
+    "character": "日野森志步",
+    "category": "色紙"
   },
   {
     "src": "images/shikishi/05_minori.png",
-    "character": "minori",
-    "category": "shikishi"
+    "thumbnail": "images/thumbnail/shikishi/05_minori.png",
+    "character": "花里實乃理",
+    "category": "色紙"
   },
   {
     "src": "images/shikishi/06_haruka.png",
-    "character": "haruka",
-    "category": "shikishi"
+    "thumbnail": "images/thumbnail/shikishi/06_haruka.png",
+    "character": "桐谷遙",
+    "category": "色紙"
   },
   {
     "src": "images/shikishi/07_airi.png",
-    "character": "airi",
-    "category": "shikishi"
+    "thumbnail": "images/thumbnail/shikishi/07_airi.png",
+    "character": "桃井愛莉",
+    "category": "色紙"
   },
   {
     "src": "images/shikishi/08_shizuku.png",
-    "character": "shizuku",
-    "category": "shikishi"
+    "thumbnail": "images/thumbnail/shikishi/08_shizuku.png",
+    "character": "日野森雫",
+    "category": "色紙"
   },
   {
     "src": "images/shikishi/09_kohane.png",
-    "character": "kohane",
-    "category": "shikishi"
+    "thumbnail": "images/thumbnail/shikishi/09_kohane.png",
+    "character": "小豆澤心羽",
+    "category": "色紙"
   },
   {
     "src": "images/shikishi/10_an.png",
-    "character": "an",
-    "category": "shikishi"
+    "thumbnail": "images/thumbnail/shikishi/10_an.png",
+    "character": "白石杏",
+    "category": "色紙"
   },
   {
     "src": "images/shikishi/11_akito.png",
-    "character": "akito",
-    "category": "shikishi"
+    "thumbnail": "images/thumbnail/shikishi/11_akito.png",
+    "character": "東雲彰人",
+    "category": "色紙"
   },
   {
     "src": "images/shikishi/12_toya.png",
-    "character": "toya",
-    "category": "shikishi"
+    "thumbnail": "images/thumbnail/shikishi/12_toya.png",
+    "character": "青柳冬彌",
+    "category": "色紙"
   },
   {
     "src": "images/shikishi/13_tsukasa.png",
-    "character": "tsukasa",
-    "category": "shikishi"
+    "thumbnail": "images/thumbnail/shikishi/13_tsukasa.png",
+    "character": "天馬司",
+    "category": "色紙"
   },
   {
     "src": "images/shikishi/14_emu.png",
-    "character": "emu",
-    "category": "shikishi"
+    "thumbnail": "images/thumbnail/shikishi/14_emu.png",
+    "character": "鳳笑夢",
+    "category": "色紙"
   },
   {
     "src": "images/shikishi/15_nene.png",
-    "character": "nene",
-    "category": "shikishi"
+    "thumbnail": "images/thumbnail/shikishi/15_nene.png",
+    "character": "草薙寧寧",
+    "category": "色紙"
   },
   {
     "src": "images/shikishi/16_rui.png",
-    "character": "rui",
-    "category": "shikishi"
+    "thumbnail": "images/thumbnail/shikishi/16_rui.png",
+    "character": "神代類",
+    "category": "色紙"
   },
   {
     "src": "images/shikishi/17_kanade.png",
-    "character": "kanade",
-    "category": "shikishi"
+    "thumbnail": "images/thumbnail/shikishi/17_kanade.png",
+    "character": "宵崎奏",
+    "category": "色紙"
   },
   {
     "src": "images/shikishi/18_mafuyu.png",
-    "character": "mafuyu",
-    "category": "shikishi"
+    "thumbnail": "images/thumbnail/shikishi/18_mafuyu.png",
+    "character": "朝比奈真冬",
+    "category": "色紙"
   },
   {
     "src": "images/shikishi/19_ena.png",
-    "character": "ena",
-    "category": "shikishi"
+    "thumbnail": "images/thumbnail/shikishi/19_ena.png",
+    "character": "東雲繪名",
+    "category": "色紙"
   },
   {
     "src": "images/shikishi/20_mizuki.png",
-    "character": "mizuki",
-    "category": "shikishi"
+    "thumbnail": "images/thumbnail/shikishi/20_mizuki.png",
+    "character": "曉山瑞希",
+    "category": "色紙"
   },
   {
     "src": "images/shikishi/21_miku.png",
-    "character": "miku",
-    "category": "shikishi"
+    "thumbnail": "images/thumbnail/shikishi/21_miku.png",
+    "character": "初音未來",
+    "category": "色紙"
   },
   {
     "src": "images/shikishi/22_rin.png",
-    "character": "rin",
-    "category": "shikishi"
+    "thumbnail": "images/thumbnail/shikishi/22_rin.png",
+    "character": "鏡音鈴",
+    "category": "色紙"
   },
   {
     "src": "images/shikishi/23_len.png",
-    "character": "len",
-    "category": "shikishi"
+    "thumbnail": "images/thumbnail/shikishi/23_len.png",
+    "character": "鏡音連",
+    "category": "色紙"
   },
   {
     "src": "images/shikishi/24_luka.png",
-    "character": "luka",
-    "category": "shikishi"
+    "thumbnail": "images/thumbnail/shikishi/24_luka.png",
+    "character": "巡音流歌",
+    "category": "色紙"
   },
   {
     "src": "images/shikishi/25_meiko.png",
-    "character": "meiko",
-    "category": "shikishi"
+    "thumbnail": "images/thumbnail/shikishi/25_meiko.png",
+    "character": "MEIKO",
+    "category": "色紙"
   },
   {
     "src": "images/shikishi/26_kaito.png",
-    "character": "kaito",
-    "category": "shikishi"
+    "thumbnail": "images/thumbnail/shikishi/26_kaito.png",
+    "character": "KAITO",
+    "category": "色紙"
   },
   {
     "src": "images/shikishi/13_tsukasa_nonam.png",
-    "character": "tsukasa",
-    "category": "shikishi"
+    "thumbnail": "images/thumbnail/shikishi/13_tsukasa_nonam.png",
+    "character": "天馬司",
+    "category": "色紙"
   },
   {
     "src": "images/shikishi/14_emu_nonam.png",
-    "character": "emu",
-    "category": "shikishi"
+    "thumbnail": "images/thumbnail/shikishi/14_emu_nonam.png",
+    "character": "鳳笑夢",
+    "category": "色紙"
   },
   {
     "src": "images/shikishi/15_nene_nonam.png",
-    "character": "nene",
-    "category": "shikishi"
+    "thumbnail": "images/thumbnail/shikishi/15_nene_nonam.png",
+    "character": "草薙寧寧",
+    "category": "色紙"
   },
   {
     "src": "images/shikishi/16_rui_nonam.png",
-    "character": "rui",
-    "category": "shikishi"
+    "thumbnail": "images/thumbnail/shikishi/16_rui_nonam.png",
+    "character": "神代類",
+    "category": "色紙"
   },
   {
     "src": "images/shikishi/21_miku_nonam.png",
-    "character": "miku",
-    "category": "shikishi"
+    "thumbnail": "images/thumbnail/shikishi/21_miku_nonam.png",
+    "character": "初音未來",
+    "category": "色紙"
   },
   {
     "src": "images/shikishi/26_kaito_nonam.png",
-    "character": "kaito",
-    "category": "shikishi"
+    "thumbnail": "images/thumbnail/shikishi/26_kaito_nonam.png",
+    "character": "KAITO",
+    "category": "色紙"
   }
 ]
