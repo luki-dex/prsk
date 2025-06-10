@@ -45,9 +45,7 @@ function updateImages() {
     img.src = b.thumbnail;
     img.alt = b.character;
     img.title = b.character;
-    img.addEventListener("click", () => {
-      window.open(b.src, "_blank");
-    });
+    
     
     container.appendChild(img);
   });
