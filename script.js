@@ -15,8 +15,7 @@ function populateSelects() {
   fillSelect('characterSelect', character);
   fillSelect('categorySelect', category);;
 
-  document.getElementById("characterSelect").addEventListener("change", updateImages);
-  document.getElementById("categorySelect").addEventListener("change", updateImages);
+  document.getElementById("showButton").addEventListener("click", updateImages);
 }
 
 function fillSelect(id, items) {
@@ -30,8 +29,8 @@ function fillSelect(id, items) {
 }
 
 function updateImages() {
-  const character = document.getElementById("topicSelect").value;
-  const category = document.getElementById("authorSelect").value;
+  const character = document.getElementById("characterSelect").value;
+  const category = document.getElementById("categorySelect").value;
 
   const filtered = goods.filter(b =>
     (!character || b.character === character) &&
@@ -43,7 +42,13 @@ function updateImages() {
 
   filtered.forEach(b => {
     const img = document.createElement("img");
-    img.src = b.src;
+    img.src = b.thumbnail;
+    img.alt = b.character;
+    img.title = b.character;
+    img.addEventListener("click", () => {
+      window.open(b.src, "_blank");
+    });
+    
     container.appendChild(img);
   });
 }
