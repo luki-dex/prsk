@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background-color: #f9f9f9;
+}
+
+label {
+  margin-right: 15px;
+}
+
+#imageContainer {
+  margin-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
+#imageContainer img {
+  width: 150px;
+  height: auto;
+  box-shadow: 0 0 8px rgba(0,0,0,0.2);
+}

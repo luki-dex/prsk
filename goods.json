@@ -1,0 +1,292 @@
+[
+  {
+    "src": "images/epick/01_ichika.png",
+    "character": "ichika",
+    "category": "epick"
+  },
+  {
+    "src": "images/epick/02_saki.png",
+    "character": "saki",
+    "category": "epick"
+  },
+  {
+    "src": "images/epick/03_honami.png",
+    "character": "honami",
+    "category": "epick"
+  },
+  {
+    "src": "images/epick/04_shiho.png",
+    "character": "shiho",
+    "category": "epick"
+  },
+  {
+    "src": "images/epick/05_minori.png",
+    "character": "minori",
+    "category": "epick"
+  },
+  {
+    "src": "images/epick/06_haruka.png",
+    "character": "haruka",
+    "category": "epick"
+  },
+  {
+    "src": "images/epick/07_airi.png",
+    "character": "airi",
+    "category": "epick"
+  },
+  {
+    "src": "images/epick/08_shizuku.png",
+    "character": "shizuku",
+    "category": "epick"
+  },
+  {
+    "src": "images/epick/09_kohane.png",
+    "character": "kohane",
+    "category": "epick"
+  },
+  {
+    "src": "images/epick/10_an.png",
+    "character": "an",
+    "category": "epick"
+  },
+  {
+    "src": "images/epick/11_akito.png",
+    "character": "akito",
+    "category": "epick"
+  },
+  {
+    "src": "images/epick/12_toya.png",
+    "character": "toya",
+    "category": "epick"
+  },
+  {
+    "src": "images/epick/13_tsukasa.png",
+    "character": "tsukasa",
+    "category": "epick"
+  },
+  {
+    "src": "images/epick/14_emu.png",
+    "character": "emu",
+    "category": "epick"
+  },
+  {
+    "src": "images/epick/15_nene.png",
+    "character": "nene",
+    "category": "epick"
+  },
+  {
+    "src": "images/epick/16_rui.png",
+    "character": "rui",
+    "category": "epick"
+  },
+  {
+    "src": "images/epick/17_kanade.png",
+    "character": "kanade",
+    "category": "epick"
+  },
+  {
+    "src": "images/epick/18_mafuyu.png",
+    "character": "mafuyu",
+    "category": "epick"
+  },
+  {
+    "src": "images/epick/19_ena.png",
+    "character": "ena",
+    "category": "epick"
+  },
+  {
+    "src": "images/epick/20_mizuki.png",
+    "character": "mizuki",
+    "category": "epick"
+  },
+  {
+    "src": "images/epick/21_miku.png",
+    "character": "miku",
+    "category": "epick"
+  },
+  {
+    "src": "images/epick/22_rin.png",
+    "character": "rin",
+    "category": "epick"
+  },
+  {
+    "src": "images/epick/23_len.png",
+    "character": "len",
+    "category": "epick"
+  },
+  {
+    "src": "images/epick/24_luka.png",
+    "character": "luka",
+    "category": "epick"
+  },
+  {
+    "src": "images/epick/25_meiko.png",
+    "character": "meiko",
+    "category": "epick"
+  },
+  {
+    "src": "images/epick/26_kaito.png",
+    "character": "kaito",
+    "category": "epick"
+  },
+  {
+    "src": "images/shikishi/01_ichika.png",
+    "character": "ichika",
+    "category": "shikishi"
+  },
+  {
+    "src": "images/shikishi/02_saki.png",
+    "character": "saki",
+    "category": "shikishi"
+  },
+  {
+    "src": "images/shikishi/03_honami.png",
+    "character": "honami",
+    "category": "shikishi"
+  },
+  {
+    "src": "images/shikishi/04_shiho.png",
+    "character": "shiho",
+    "category": "shikishi"
+  },
+  {
+    "src": "images/shikishi/05_minori.png",
+    "character": "minori",
+    "category": "shikishi"
+  },
+  {
+    "src": "images/shikishi/06_haruka.png",
+    "character": "haruka",
+    "category": "shikishi"
+  },
+  {
+    "src": "images/shikishi/07_airi.png",
+    "character": "airi",
+    "category": "shikishi"
+  },
+  {
+    "src": "images/shikishi/08_shizuku.png",
+    "character": "shizuku",
+    "category": "shikishi"
+  },
+  {
+    "src": "images/shikishi/09_kohane.png",
+    "character": "kohane",
+    "category": "shikishi"
+  },
+  {
+    "src": "images/shikishi/10_an.png",
+    "character": "an",
+    "category": "shikishi"
+  },
+  {
+    "src": "images/shikishi/11_akito.png",
+    "character": "akito",
+    "category": "shikishi"
+  },
+  {
+    "src": "images/shikishi/12_toya.png",
+    "character": "toya",
+    "category": "shikishi"
+  },
+  {
+    "src": "images/shikishi/13_tsukasa.png",
+    "character": "tsukasa",
+    "category": "shikishi"
+  },
+  {
+    "src": "images/shikishi/14_emu.png",
+    "character": "emu",
+    "category": "shikishi"
+  },
+  {
+    "src": "images/shikishi/15_nene.png",
+    "character": "nene",
+    "category": "shikishi"
+  },
+  {
+    "src": "images/shikishi/16_rui.png",
+    "character": "rui",
+    "category": "shikishi"
+  },
+  {
+    "src": "images/shikishi/17_kanade.png",
+    "character": "kanade",
+    "category": "shikishi"
+  },
+  {
+    "src": "images/shikishi/18_mafuyu.png",
+    "character": "mafuyu",
+    "category": "shikishi"
+  },
+  {
+    "src": "images/shikishi/19_ena.png",
+    "character": "ena",
+    "category": "shikishi"
+  },
+  {
+    "src": "images/shikishi/20_mizuki.png",
+    "character": "mizuki",
+    "category": "shikishi"
+  },
+  {
+    "src": "images/shikishi/21_miku.png",
+    "character": "miku",
+    "category": "shikishi"
+  },
+  {
+    "src": "images/shikishi/22_rin.png",
+    "character": "rin",
+    "category": "shikishi"
+  },
+  {
+    "src": "images/shikishi/23_len.png",
+    "character": "len",
+    "category": "shikishi"
+  },
+  {
+    "src": "images/shikishi/24_luka.png",
+    "character": "luka",
+    "category": "shikishi"
+  },
+  {
+    "src": "images/shikishi/25_meiko.png",
+    "character": "meiko",
+    "category": "shikishi"
+  },
+  {
+    "src": "images/shikishi/26_kaito.png",
+    "character": "kaito",
+    "category": "shikishi"
+  },
+  {
+    "src": "images/shikishi/13_tsukasa_nonam.png",
+    "character": "tsukasa",
+    "category": "shikishi"
+  },
+  {
+    "src": "images/shikishi/14_emu_nonam.png",
+    "character": "emu",
+    "category": "shikishi"
+  },
+  {
+    "src": "images/shikishi/15_nene_nonam.png",
+    "character": "nene",
+    "category": "shikishi"
+  },
+  {
+    "src": "images/shikishi/16_rui_nonam.png",
+    "character": "rui",
+    "category": "shikishi"
+  },
+  {
+    "src": "images/shikishi/21_miku_nonam.png",
+    "character": "miku",
+    "category": "shikishi"
+  },
+  {
+    "src": "images/shikishi/26_kaito_nonam.png",
+    "character": "kaito",
+    "category": "shikishi"
+  }
+]
