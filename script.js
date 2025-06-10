@@ -33,7 +33,7 @@ function updateImages() {
   const character = document.getElementById("topicSelect").value;
   const category = document.getElementById("authorSelect").value;
 
-  const filtered = books.filter(b =>
+  const filtered = goods.filter(b =>
     (!character || b.character === character) &&
     (!category || b.category === category)
   );
